@@ -19,7 +19,7 @@ public:
     ~MainWindow();
 
 protected:
-    // 键盘事件：与鼠标按钮复用同一套输入动作（见下方 inputXxx 系列）
+    // 键盘事件：与鼠标按钮复用同一套输入动作
     void keyPressEvent(QKeyEvent *event) override;
 
 private:
