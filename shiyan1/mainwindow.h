@@ -23,7 +23,7 @@ protected:
     void keyPressEvent(QKeyEvent *event) override;
 
 private:
-    // ---- 输入动作（鼠标点击与键盘事件都会调用这些方法，逻辑完全复用）----
+    // ---- 输入动作（鼠标点击与键盘事件都会调用这些方法）----
     void inputDigit(int digit);            // 数字 0-9
     void inputDecimal();                   // 小数点
     void inputOperator(const QString &op); // 双目运算符 + - * /
