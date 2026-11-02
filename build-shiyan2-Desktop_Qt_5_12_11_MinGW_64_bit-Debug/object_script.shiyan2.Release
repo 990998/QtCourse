@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/codeeditor.o
+release/finddialog.o
+release/replacedialog.o
+release/qrc_resources.o
+release/moc_mainwindow.o
+release/moc_codeeditor.o
+release/moc_finddialog.o
+release/moc_replacedialog.o

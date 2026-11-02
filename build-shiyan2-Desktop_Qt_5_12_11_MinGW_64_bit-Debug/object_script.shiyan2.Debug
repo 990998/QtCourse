@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/codeeditor.o
+debug/finddialog.o
+debug/replacedialog.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o
+debug/moc_codeeditor.o
+debug/moc_finddialog.o
+debug/moc_replacedialog.o
